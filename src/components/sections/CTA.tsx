@@ -5,7 +5,7 @@ import { ArrowRight, MessageCircle, Sparkles } from "lucide-react";
 const ctaItems = [
   "FlowDesk",
   "AgendaFlow",
-  "ImobFlow",
+  "DecorFlow",
   "Sites profissionais",
   "Sistemas sob medida",
   "Automações",

@@ -12,11 +12,11 @@ export const site = {
       link: "/produtos/flowdesk",
     },
     {
-      name: "ImobFlow",
+      name: "DecorFlow",
       description:
         "ERP imobiliário completo com contratos, financeiro, inadimplência e dashboards estratégicos.",
       price: "a partir de R$ 380/mês",
-      link: "/produtos/imobflow",
+      link: "/produtos/DecorFlow",
     },
     {
       name: "AgendaFlow",
